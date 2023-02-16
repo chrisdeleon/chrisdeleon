@@ -19,7 +19,7 @@ Throughout my time at OTC, I've racked up a couple of achievements which include
 - [Databases Certification](https://www.credly.com/badges/690b86da-2977-4040-a974-297e9f9664c2/public_url)
 
 - [SkillsUSA District Champion in Web Design](https://github.com/chrisdeleon/SkillsUSARoundOne)
-In a few weeks, I'll have first place for State and Nationals 😉
+and in a few weeks, I'll have first place for State and Nationals 😉
 
 I've also stocked up my GitHub Repository with several projects both school ones and ones that I've done in my freetime, just for fun!
 
