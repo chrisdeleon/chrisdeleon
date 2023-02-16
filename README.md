@@ -13,16 +13,14 @@ I completely fell in love with the art!
 
 Throughout my time at OTC, I've racked up a couple of achievements which include, but are not limited to:
 
-```
+
 JavaScript Certification -- This site was built using [GitHub Pages](https://pages.github.com/).
-```
-```
+
 Databases Certification -- This site was built using [GitHub Pages](https://pages.github.com/).
-```
-```
+
 SkillsUSA District Champion in Web Design - you can view my winning website here.
 In a few weeks, I'll have first place for State and Nationals 😉
-```
+
 I've also stocked up my GitHub Repository with several projects both school ones and ones that I've done in my freetime, just for fun!
 
 ## One Final Note
