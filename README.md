@@ -14,13 +14,13 @@ I completely fell in love with the art!
 Throughout my time at OTC, I've racked up a couple of achievements which include, but are not limited to:
 
 ```
-[JavaScript Certification](https://www.credly.com/badges/f129eadc-258d-46df-a344-eb78a5532808/public_url).
+JavaScript Certification -- This site was built using [GitHub Pages](https://pages.github.com/).
 ```
 ```
-[Databases Certification](https://www.credly.com/badges/690b86da-2977-4040-a974-297e9f9664c2/public_url).
+Databases Certification -- This site was built using [GitHub Pages](https://pages.github.com/).
 ```
 ```
-SkillsUSA District Champion in Web Design - you can view my winning website [here.](https://github.com/chrisdeleon/SkillsUSARoundOne).
+SkillsUSA District Champion in Web Design - you can view my winning website here.
 In a few weeks, I'll have first place for State and Nationals 😉
 ```
 I've also stocked up my GitHub Repository with several projects both school ones and ones that I've done in my freetime, just for fun!
