@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @chrisdeleon
 - 👀 I’m interested in biking!
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and Java.
+- 🌱 I’m currently doing a deep dive on Java, learning data structures, and writing ARM assembly language. Calculus is pretty fun so far too!
 - 📫 How to reach me... deleonc2050@gmail.com
 
 ## A Little About Me...
