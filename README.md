@@ -1,7 +1,7 @@
 # Who Am I?
 
 - 👋 Hi, I’m @chrisdeleon
-- 👀 I’m interested in biking!
+- 👀 I’m interested in biking, painting, and taking on projects on my house!
 - 🌱 I’m currently doing a deep dive on Java, learning data structures, and writing ARM assembly language. Calculus is pretty fun so far too!
 - 📫 How to reach me... deleonc2050@gmail.com
 
